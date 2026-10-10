@@ -1,0 +1,8 @@
+SpeechRecognition
+PyAudio
+opencv-python
+numpy
+ollama
+edge-tts
+mediapipe
+certifi

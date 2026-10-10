@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+memory.json
+screenshots/
+photos/
+hand_landmarker.task
+*.part
